@@ -1,2 +1,4 @@
 # hello-world
-Getting started on GitHub
+
+Currently getting setup on GitHub.
+Looking to host a personal webpage using GitHub Pages.
